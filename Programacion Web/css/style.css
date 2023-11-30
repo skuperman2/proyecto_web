@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.encabezado{
+    color: #fff;
+    background-color: #000;
+    display: flex;
+    justify-content: space-between;
+}
+
+.principal{
+    padding: 16px;
+    margin: 20px;
+    justify-items: center;
+}
+
+.contenedor-uno{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contenedor-dos{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.footer{
+    color: #fff;
+    background-color: #000;
+    display: flex;
+    justify-content: space-between;
+}
